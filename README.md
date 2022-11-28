@@ -1,6 +1,6 @@
 ### EX NO: 04
 
-### DATE: 03/10/2022
+### DATE: 
 
 
 # <br><p align = "center"> Deep Neural Network for Malaria Infected Cell Recognition </p>
